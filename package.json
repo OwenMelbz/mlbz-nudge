@@ -2,7 +2,7 @@
   "name": "mlbz-nudge",
   "version": "1.0.0",
   "description": "Simple dependency free ES6 library to produce small on-screen nudges",
-  "main": "dist.js",
+  "main": "nudge.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
