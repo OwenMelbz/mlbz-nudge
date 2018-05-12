@@ -76,4 +76,6 @@ Or you can pass in
 
 To disable the css completely.
 
-> Enjoy
+# Upgrading from jquery-nudge
+
+The javascript API is identical, however the css classes have been renamed from `.jquery-nudge` to `.mlbz-nudge` so update any references to the new class name
